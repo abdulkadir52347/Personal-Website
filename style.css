@@ -1,0 +1,87 @@
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 45px;
+    font: bold;
+    color: fuchsia;
+}
+p{
+    font-size: 26px;
+}
+section{
+    height: 700px;
+    padding: 50px;
+}
+.container{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-left: 2%;
+}
+.container img{
+    width: 100%;
+}
+.section-top{
+    background-image: url("photo/header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.link-button{
+    text-decoration: none;
+    color:white;
+    background-image: linear-gradient(45deg, green, black);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}.section-mid{
+    background-image: url("photo/biography-bg.png");
+}
+.biography{
+    font-size: 50px;
+}
+.latest{
+    text-align: center;
+    font-weight: bold;
+}
+.work-part{
+    width: 30%;
+    float:left;
+    margin-left: 2%;
+    padding-left: 1%;
+
+}
+.work-part img{
+    width: 100%;
+}
+.section-three{
+    background-image: url("photo/latest-work-bg.png");
+}
+.section-buttom{
+    text-align: center;
+    background-image: url("photo/footer-bg.png");
+}
+.lorem-ipsum{
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+}
+h4{
+    font-weight:inherit
+    
+}
+.client{
+    font-size: 55px;
+}
+.gmail{
+    background-image: linear-gradient(45deg,tomato, green);
+    padding: 40px;
+    border-radius: 20px;
+    margin: 10px 500px;
+}span{
+    font-size: 40px;
+}
+footer{
+    text-align: center;
+}
